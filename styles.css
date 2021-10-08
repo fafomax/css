@@ -1,0 +1,21 @@
+body {
+    background-color: darkslategrey;
+}
+h1{
+    font-size: 100px;
+    color: midnightblue;
+    background-color: orangered;
+    text-align: center;
+}
+.tardis {
+    font-size: 40px;
+    color: midnightblue;
+    background-color: orchid;
+    text-align: center;
+}
+.doctores {
+    font-size: 30px;
+    color: purple;
+    background-color: red;
+    border-radius: 5%;
+}
